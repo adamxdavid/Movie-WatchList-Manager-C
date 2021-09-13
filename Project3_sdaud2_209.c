@@ -1,10 +1,3 @@
-/*ADAM DAVID
-G01192526
-CS 262, LAB SECTION 209
-PROJECT 3*/
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
